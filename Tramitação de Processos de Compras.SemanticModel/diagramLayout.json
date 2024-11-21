@@ -1,0 +1,266 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 1165.2582288420595,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 218,
+            "y": 683.787109375
+          },
+          "nodeIndex": "dim_area",
+          "nodeLineageTag": "39037524-2536-405e-bafb-5123efa0a03d",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 609.36874858300041,
+            "y": 0
+          },
+          "nodeIndex": "fato_sla_processos",
+          "nodeLineageTag": "d6f745e4-218e-427b-952a-4b87a6ea84c4",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 875.9957260080605,
+            "y": 475.84333906967464
+          },
+          "nodeIndex": "fato_status_processos",
+          "nodeLineageTag": "4b933443-6f8a-4a21-8536-70ab296bb145",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "dim_id_processos",
+          "nodeLineageTag": "f733ca06-98cf-41a2-b2ed-88939349d917",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 1187.5158764574016,
+            "y": 267.49764632345523
+          },
+          "nodeIndex": "dim_status_processo",
+          "nodeLineageTag": "970afdf6-bdb2-4428-b568-dc8b39ba0692",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 1534.3669136117737,
+            "y": 586.25832559761182
+          },
+          "nodeIndex": "fato_usuários",
+          "nodeLineageTag": "7dcd6fc0-64f4-4556-895c-a3ac6a537d62",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1214,
+            "y": 457.287109375
+          },
+          "nodeIndex": "TR_Medidas",
+          "size": {
+            "height": 437,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 247,
+            "y": 182.787109375
+          },
+          "nodeIndex": "TR_fato_processos",
+          "size": {
+            "height": 280,
+            "width": 290
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 2169.07570093317,
+            "y": 0
+          },
+          "nodeIndex": "JT_fato_processos",
+          "nodeLineageTag": "c65f5b11-0d7a-4380-80a3-a1420b70e819",
+          "size": {
+            "height": 300,
+            "width": 325.76251424538304
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 2722.0781399538828,
+            "y": 0
+          },
+          "nodeIndex": "JT_fato_status_processos",
+          "nodeLineageTag": "5d30fa5a-0fca-4883-9f8e-9164973c66f7",
+          "size": {
+            "height": 300,
+            "width": 264.16849783409862
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 2085.9389560138752,
+            "y": 567.12218472780251
+          },
+          "nodeIndex": "JT_Medidas",
+          "nodeLineageTag": "6d924daf-b6f0-412c-982e-b500ae3b5d5a",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 553,
+            "y": 632.787109375
+          },
+          "nodeIndex": "TR_dim_calendario",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 2422.8205151613092,
+            "y": 499.24306460108062
+          },
+          "nodeIndex": "JT_dim_calendario",
+          "nodeLineageTag": "3d85a491-0dab-4135-9cd1-04161ba1123c",
+          "size": {
+            "height": 373.46886254606704,
+            "width": 234
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 2733.2179507661458,
+            "y": 430.10692373127125
+          },
+          "nodeIndex": "JT_fato_datas_status_processos",
+          "nodeLineageTag": "9014b2a7-7a82-4d43-ba23-748fd593b75d",
+          "size": {
+            "height": 391.06715294929131,
+            "width": 343.36080464860743
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 3049.9004900864197,
+            "y": 0
+          },
+          "nodeIndex": "JT_dim_status_processos",
+          "nodeLineageTag": "15a7c934-330a-4209-9897-7bf842689bdb",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 1658.2918395508584,
+            "y": 211.1794848386904
+          },
+          "nodeIndex": "JT_fato_assinatura_enviado",
+          "nodeLineageTag": "7f16a0bf-107f-420d-a250-3ae6160c3961",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 3328.87240711407,
+            "y": 535.87458107643124
+          },
+          "nodeIndex": "JT_fato_parecer_tecnico",
+          "nodeLineageTag": "0dca5285-e6ed-474f-a2a2-e2c17b5fef98",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 1947.3199225232079,
+            "y": 374.241494688205
+          },
+          "nodeIndex": "JT_dim_status_processo",
+          "nodeLineageTag": "53b0273b-c980-49fd-8750-7725d2542ea1",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 1347.7210280704976,
+            "y": 30.958225943994535
+          },
+          "nodeIndex": "JT_dim_classificacao_artigo",
+          "nodeLineageTag": "0e8e8f9e-554e-4ef2-b0d1-cd052540e69f",
+          "size": {
+            "height": 176,
+            "width": 285.53785046658504
+          },
+          "zIndex": 4
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 79.553182037699784,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}

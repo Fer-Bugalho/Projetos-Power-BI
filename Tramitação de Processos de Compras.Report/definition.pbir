@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Tramitação de Processos de Compras.SemanticModel"
+    },
+    "byConnection": null
+  }
+}

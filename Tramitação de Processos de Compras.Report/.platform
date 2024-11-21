@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Tramitação de Processos de Compras"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ca5ff4c2-cc42-448e-86a5-e86fe075abd3"
+  }
+}
